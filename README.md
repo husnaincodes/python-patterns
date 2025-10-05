@@ -55,4 +55,14 @@ Each file demonstrates how nested loops can be used to form creative designs.
 
 <h2>🤝 Contributing</h2>
 <p>
-Contributions are welcome! Y
+Contributions are welcome! You can add more creative pattern scripts or optimize existing ones.
+</p>
+
+<h2>📜 License</h2>
+<p>
+This project is open-source and available under the <a href="LICENSE">MIT License</a>.
+</p>
+
+<hr>
+
+<p align="center">Made with ❤️ by <strong>Husnain</strong></p>
