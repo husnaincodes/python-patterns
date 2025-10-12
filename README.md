@@ -58,8 +58,8 @@ Each file demonstrates how nested loops can be used to form creative designs.
 Contributions are welcome! You can add more creative pattern scripts or optimize existing ones.
 </p>
 
-<h2>📜 License</h2>
 
-<hr>
+
+
 
 <p align="center">Made  by <strong>Husnain</strong></p>
