@@ -1,4 +1,5 @@
-for i in range (4):
-    for j in range(4):
+num = int(input("Enter the number : "))
+for i in range (num):
+    for j in range(num):
         print(chr(65+i), end=" ")
     print()
