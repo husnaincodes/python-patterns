@@ -10,6 +10,6 @@ while i >=1:
     i = i-1
 
 
-a = 10
+a = int(input("Enter the number :"))
 for  i  in range(a):
     print("*"*i)
